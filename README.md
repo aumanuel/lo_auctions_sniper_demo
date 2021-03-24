@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/aumanuel/Lo_auctions_sniper_demo/main/assets/add_map.jpg">
   <br>
+  <br>
   The newly added map will be displayed in the list, you can track the end time of the auction.<br>
   When the auction is over, the map remains in the list. The end time of the next auction is then calculated and displayed.<br>
   When the next auction occurs after the decay timer of the map, the map disappears from the list and is removed from the database.<br>
