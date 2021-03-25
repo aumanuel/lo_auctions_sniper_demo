@@ -13,10 +13,9 @@
   <br>
 </p>
 
-<h1 align="center">Add a new map</h2>
+<h1 align="center">Add a new map</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/aumanuel/Lo_auctions_sniper_demo/main/assets/add_map.jpg">
-  <br>
   <br>
   The newly added map will be displayed in the list, you can track the end time of the auction.<br>
   When the auction is over, the map remains in the list. The end time of the next auction is then calculated and displayed.<br>
@@ -31,7 +30,7 @@
   <br>
 </p>
 
-<h1 align="center">The list of maps</h2>
+<h1 align="center">The list of maps</h1>
 <p align="center">
   The registered maps are displayed in the chronological order of the end of the auction<br>
   All useful information necessary for the verification of the auctioned item is displayed<br>
@@ -52,7 +51,7 @@
   <br>
 </p>
 
-<h1 align="center">Settings</h2>
+<h1 align="center">Settings</h1>
 <p align="center">
   For ease of managing geographic areas, you can select which maps are displayed in the listing section.<br>
   You can select which objects you want to track, the corresponding auctions of all regions, activated or not, will be displayed in the Sniping section.<br>
@@ -62,7 +61,7 @@
   <br>
 </p>
 
-<h1 align="center">The sniping section</h2>
+<h1 align="center">The sniping section</h1>
 <p align="center">
   Once you have scouted the servers and recorded what their auctions were,<br>
   the ones you are interested in will be displayed in the sniping section,<br>
@@ -73,7 +72,7 @@
   <br>
 </p>
 
-<h1 align="center">Edit a map</h2>
+<h1 align="center">Edit a map</h1>
 <p align="center">
   When someone outbids during the last 3 minutes, the remaining time is reset to 3 minutes, which can shift the time of the next auctions.<br>
   You can tap on a map you can change its information.<br>
