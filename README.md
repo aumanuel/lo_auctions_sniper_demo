@@ -1,4 +1,5 @@
 <h1 align="center">Last Oasis Auctions Sniper (1h Demo Version)</h1>
+<h1 align="center">Outdated, Broken</h1>
 
 <p align="center">
   This app will help you manage a database to track all the auctions in the game.<br>
