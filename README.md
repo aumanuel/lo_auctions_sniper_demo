@@ -9,7 +9,7 @@
 
 <h2 align="center">Download the app</h2>
 <p align="center">
-  <img width="750" src="https://raw.githubusercontent.com/aumanuel/lo_auctions_sniper_demo/main/assets/qr_download.jpg">
+  [Deleted]
   <br>
   <br>
 </p>
