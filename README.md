@@ -2,7 +2,6 @@
 
 <p align="center">
   This app will help you manage a database to track all the auctions in the game.<br>
-  Only half of the code is published.<br>
 </p>
 
 
