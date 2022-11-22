@@ -1,4 +1,4 @@
-<h1 align="center">Last Oasis Auctions Sniper (1h Demo Version)</h1>
+<h1 align="center">Last Oasis Auctions Sniper</h1>
 <h1 align="center">Outdated, Broken</h1>
 
 <p align="center">
