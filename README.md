@@ -1,15 +1,7 @@
-<h1 align="center">[Outdated, Broken] Last Oasis Auctions Sniper </h1>
+<h1 align="center">Last Oasis Auctions Sniper </h1>
 
 <p align="center">
   This app will help you manage a database to track all the auctions in the game.<br>
-</p>
-
-
-<h2 align="center">Download the app</h2>
-<p align="center">
-  [Deleted]
-  <br>
-  <br>
 </p>
 
 <h1 align="center">Add a new map</h1>
